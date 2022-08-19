@@ -1,10 +1,14 @@
-### Hi there 👋
+### 
 
-<!--
-**Yelenis14/Yelenis14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2> Hi, I'm Yelenis Brito! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
+
+
+![Linkedin: yelenisbrito](https://img.shields.io/badge/-yelenisbritogonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yelenis-brito-gonzalez-315373130/)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -13,6 +17,7 @@
 const yelenis = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
+ 
 
 }
 ```
@@ -21,16 +26,6 @@ const yelenis = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@yelenis14](https://https://github.com/Yelenis14)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
