@@ -7,7 +7,7 @@
 </em></p>
 
 
-![Linkedin: yelenisbrito](https://img.shields.io/badge/-yelenisbritogonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yelenis-brito-gonzalez-315373130/)
+![Linkedin: yelenisbrito](https://img.shields.io/badge/-yelenisbritogonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yelenis-brito-gonzalez-315373130)
 
 
 
